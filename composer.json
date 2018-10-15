@@ -1,7 +1,7 @@
 {
     "name": "blackmetalmusic/jsonrpc",
     "description": "Simple Json-RPC client/server library that just works",
-    "homepage": "https://github.com/fguillot/JsonRPC",
+    "homepage": "https://github.com/BlackMetalMusic/JsonRPC",
     "type": "library",
     "license": "MIT",
     "authors": [
